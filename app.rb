@@ -1,5 +1,5 @@
 require 'json'
-path = File.join(File.dirname(__FILE__), '../data/products.json')
+path = File.join(File.dirname(__FILE__), '../products.json')
 file = File.read(path)
 products_hash = JSON.parse(file)
 
