@@ -1,2 +1,4 @@
 # ruby
-Some ruby projects
+Simple ruby projects 
+powered by Udacity nanodegree for Ruby on rails
+
